@@ -1,0 +1,831 @@
+[
+  {
+    "id": 0,
+    "year": 1966,
+    "name": "Echidna",
+    "mintage": 75512304,
+    "search_terms": [
+      "1966 five cent coin",
+      "1966 5c coin",
+      "1966 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1966"
+  },
+  {
+    "id": 1,
+    "year": 1967,
+    "name": "Echidna",
+    "mintage": 62144000,
+    "search_terms": [
+      "1967 five cent coin",
+      "1967 5c coin",
+      "1967 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1967"
+  },
+  {
+    "id": 2,
+    "year": 1968,
+    "name": "Echidna",
+    "mintage": 67336000,
+    "search_terms": [
+      "1968 five cent coin",
+      "1968 5c coin",
+      "1968 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1968"
+  },
+  {
+    "id": 3,
+    "year": 1969,
+    "name": "Echidna",
+    "mintage": 38183000,
+    "search_terms": [
+      "1969 five cent coin",
+      "1969 5c coin",
+      "1969 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1969"
+  },
+  {
+    "id": 4,
+    "year": 1970,
+    "name": "Echidna",
+    "mintage": 46073000,
+    "search_terms": [
+      "1970 five cent coin",
+      "1970 5c coin",
+      "1970 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1970"
+  },
+  {
+    "id": 5,
+    "year": 1971,
+    "name": "Echidna",
+    "mintage": 39526000,
+    "search_terms": [
+      "1971 five cent coin",
+      "1971 5c coin",
+      "1971 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1971"
+  },
+  {
+    "id": 6,
+    "year": 1972,
+    "name": "Echidna",
+    "mintage": 8236000,
+    "search_terms": [
+      "1972 five cent coin",
+      "1972 5c coin",
+      "1972 echidna 5c",
+      "1972 5c key date"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1972"
+  },
+  {
+    "id": 7,
+    "year": 1973,
+    "name": "Echidna",
+    "mintage": 48826000,
+    "search_terms": [
+      "1973 five cent coin",
+      "1973 5c coin",
+      "1973 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1973"
+  },
+  {
+    "id": 8,
+    "year": 1974,
+    "name": "Echidna",
+    "mintage": 64259000,
+    "search_terms": [
+      "1974 five cent coin",
+      "1974 5c coin",
+      "1974 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1974"
+  },
+  {
+    "id": 9,
+    "year": 1975,
+    "name": "Echidna",
+    "mintage": 44279000,
+    "search_terms": [
+      "1975 five cent coin",
+      "1975 5c coin",
+      "1975 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1975"
+  },
+  {
+    "id": 10,
+    "year": 1976,
+    "name": "Echidna",
+    "mintage": 113201000,
+    "search_terms": [
+      "1976 five cent coin",
+      "1976 5c coin",
+      "1976 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1976"
+  },
+  {
+    "id": 11,
+    "year": 1977,
+    "name": "Echidna",
+    "mintage": 108855000,
+    "search_terms": [
+      "1977 five cent coin",
+      "1977 5c coin",
+      "1977 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1977"
+  },
+  {
+    "id": 12,
+    "year": 1978,
+    "name": "Echidna",
+    "mintage": 25249000,
+    "search_terms": [
+      "1978 five cent coin",
+      "1978 5c coin",
+      "1978 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1978"
+  },
+  {
+    "id": 13,
+    "year": 1979,
+    "name": "Echidna",
+    "mintage": 44569000,
+    "search_terms": [
+      "1979 five cent coin",
+      "1979 5c coin",
+      "1979 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1979"
+  },
+  {
+    "id": 14,
+    "year": 1980,
+    "name": "Echidna",
+    "mintage": 115110000,
+    "search_terms": [
+      "1980 five cent coin",
+      "1980 5c coin",
+      "1980 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1980"
+  },
+  {
+    "id": 15,
+    "year": 1981,
+    "name": "Echidna",
+    "mintage": 162350000,
+    "search_terms": [
+      "1981 five cent coin",
+      "1981 5c coin",
+      "1981 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1981"
+  },
+  {
+    "id": 16,
+    "year": 1982,
+    "name": "Echidna",
+    "mintage": 139568000,
+    "search_terms": [
+      "1982 five cent coin",
+      "1982 5c coin",
+      "1982 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1982"
+  },
+  {
+    "id": 17,
+    "year": 1983,
+    "name": "Echidna",
+    "mintage": 131648000,
+    "search_terms": [
+      "1983 five cent coin",
+      "1983 5c coin",
+      "1983 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1983"
+  },
+  {
+    "id": 18,
+    "year": 1984,
+    "name": "Echidna",
+    "mintage": 43500000,
+    "search_terms": [
+      "1984 five cent coin",
+      "1984 5c coin",
+      "1984 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1984"
+  },
+  {
+    "id": 19,
+    "year": 1985,
+    "name": "Echidna (mint sets only)",
+    "mintage": 245000,
+    "search_terms": [
+      "1985 five cent coin",
+      "1985 5c coin mint set"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1985"
+  },
+  {
+    "id": 20,
+    "year": 1986,
+    "name": "Echidna (mint sets only)",
+    "mintage": 247000,
+    "search_terms": [
+      "1986 five cent coin",
+      "1986 5c coin mint set"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1986"
+  },
+  {
+    "id": 21,
+    "year": 1987,
+    "name": "Echidna",
+    "mintage": 73570000,
+    "search_terms": [
+      "1987 five cent coin",
+      "1987 5c coin",
+      "1987 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1987"
+  },
+  {
+    "id": 22,
+    "year": 1988,
+    "name": "Echidna",
+    "mintage": 103400000,
+    "search_terms": [
+      "1988 five cent coin",
+      "1988 5c coin",
+      "1988 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1988"
+  },
+  {
+    "id": 23,
+    "year": 1988,
+    "name": "Echidna (Cook Islands Mule)",
+    "mintage": 2,
+    "search_terms": [
+      "1988 5c Cook Islands mule",
+      "1988 five cent mule coin",
+      "rare 1988 5c coin"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II COOK ISLANDS 1988"
+  },
+  {
+    "id": 24,
+    "year": 1989,
+    "name": "Echidna",
+    "mintage": 95800000,
+    "search_terms": [
+      "1989 five cent coin",
+      "1989 5c coin",
+      "1989 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1989"
+  },
+  {
+    "id": 25,
+    "year": 1990,
+    "name": "Echidna",
+    "mintage": 33253000,
+    "search_terms": [
+      "1990 five cent coin",
+      "1990 5c coin",
+      "1990 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1990"
+  },
+  {
+    "id": 26,
+    "year": 1991,
+    "name": "Echidna",
+    "mintage": 29900000,
+    "search_terms": [
+      "1991 five cent coin",
+      "1991 5c coin",
+      "1991 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1991"
+  },
+  {
+    "id": 27,
+    "year": 1992,
+    "name": "Echidna",
+    "mintage": 52600000,
+    "search_terms": [
+      "1992 five cent coin",
+      "1992 5c coin",
+      "1992 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1992"
+  },
+  {
+    "id": 28,
+    "year": 1993,
+    "name": "Echidna",
+    "mintage": 93886000,
+    "search_terms": [
+      "1993 five cent coin",
+      "1993 5c coin",
+      "1993 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1993"
+  },
+  {
+    "id": 29,
+    "year": 1994,
+    "name": "Echidna",
+    "mintage": 146708000,
+    "search_terms": [
+      "1994 five cent coin",
+      "1994 5c coin",
+      "1994 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1994"
+  },
+  {
+    "id": 30,
+    "year": 1995,
+    "name": "Echidna",
+    "mintage": 85035000,
+    "search_terms": [
+      "1995 five cent coin",
+      "1995 5c coin",
+      "1995 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1995"
+  },
+  {
+    "id": 31,
+    "year": 1996,
+    "name": "Echidna",
+    "mintage": 79251000,
+    "search_terms": [
+      "1996 five cent coin",
+      "1996 5c coin",
+      "1996 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1996"
+  },
+  {
+    "id": 32,
+    "year": 1997,
+    "name": "Echidna",
+    "mintage": 100712000,
+    "search_terms": [
+      "1997 five cent coin",
+      "1997 5c coin",
+      "1997 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1997"
+  },
+  {
+    "id": 33,
+    "year": 1998,
+    "name": "Echidna",
+    "mintage": 88564000,
+    "search_terms": [
+      "1998 five cent coin",
+      "1998 5c coin",
+      "1998 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1998"
+  },
+  {
+    "id": 34,
+    "year": 1999,
+    "name": "Echidna",
+    "mintage": 179044000,
+    "search_terms": [
+      "1999 five cent coin",
+      "1999 5c coin",
+      "1999 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1999"
+  },
+  {
+    "id": 35,
+    "year": 2000,
+    "name": "Echidna",
+    "mintage": 97457153,
+    "search_terms": [
+      "2000 five cent coin",
+      "2000 5c coin",
+      "2000 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2000"
+  },
+  {
+    "id": 36,
+    "year": 2001,
+    "name": "Echidna",
+    "mintage": 174776896,
+    "search_terms": [
+      "2001 five cent coin",
+      "2001 5c coin",
+      "2001 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id": 37,
+    "year": 2002,
+    "name": "Echidna",
+    "mintage": 148970062,
+    "search_terms": [
+      "2002 five cent coin",
+      "2002 5c coin",
+      "2002 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2002"
+  },
+  {
+    "id": 38,
+    "year": 2003,
+    "name": "Echidna",
+    "mintage": 115509090,
+    "search_terms": [
+      "2003 five cent coin",
+      "2003 5c coin",
+      "2003 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2003"
+  },
+  {
+    "id": 39,
+    "year": 2004,
+    "name": "Echidna",
+    "mintage": 147708000,
+    "search_terms": [
+      "2004 five cent coin",
+      "2004 5c coin",
+      "2004 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2004"
+  },
+  {
+    "id": 40,
+    "year": 2005,
+    "name": "Echidna",
+    "mintage": 194333520,
+    "search_terms": [
+      "2005 five cent coin",
+      "2005 5c coin",
+      "2005 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2005"
+  },
+  {
+    "id": 41,
+    "year": 2006,
+    "name": "Echidna",
+    "mintage": 306500000,
+    "search_terms": [
+      "2006 five cent coin",
+      "2006 5c coin",
+      "2006 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2006"
+  },
+  {
+    "id": 42,
+    "year": 2007,
+    "name": "Echidna",
+    "mintage": 59000000,
+    "search_terms": [
+      "2007 five cent coin",
+      "2007 5c coin",
+      "2007 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2007"
+  },
+  {
+    "id": 43,
+    "year": 2008,
+    "name": "Echidna",
+    "mintage": 200200000,
+    "search_terms": [
+      "2008 five cent coin",
+      "2008 5c coin",
+      "2008 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2008"
+  },
+  {
+    "id": 44,
+    "year": 2009,
+    "name": "Echidna",
+    "mintage": 83900000,
+    "search_terms": [
+      "2009 five cent coin",
+      "2009 5c coin",
+      "2009 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2009"
+  },
+  {
+    "id": 45,
+    "year": 2010,
+    "name": "Echidna",
+    "mintage": 55100000,
+    "search_terms": [
+      "2010 five cent coin",
+      "2010 5c coin",
+      "2010 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2010"
+  },
+  {
+    "id": 46,
+    "year": 2011,
+    "name": "Echidna",
+    "mintage": 44800000,
+    "search_terms": [
+      "2011 five cent coin",
+      "2011 5c coin",
+      "2011 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2011"
+  },
+  {
+    "id": 47,
+    "year": 2012,
+    "name": "Echidna",
+    "mintage": 68900000,
+    "search_terms": [
+      "2012 five cent coin",
+      "2012 5c coin",
+      "2012 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2012"
+  },
+  {
+    "id": 48,
+    "year": 2013,
+    "name": "Echidna",
+    "mintage": 78700000,
+    "search_terms": [
+      "2013 five cent coin",
+      "2013 5c coin",
+      "2013 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2013"
+  },
+  {
+    "id": 49,
+    "year": 2014,
+    "name": "Echidna",
+    "mintage": 58200000,
+    "search_terms": [
+      "2014 five cent coin",
+      "2014 5c coin",
+      "2014 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2014"
+  },
+  {
+    "id": 50,
+    "year": 2015,
+    "name": "Echidna",
+    "mintage": 21200000,
+    "search_terms": [
+      "2015 five cent coin",
+      "2015 5c coin",
+      "2015 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2015"
+  },
+  {
+    "id": 51,
+    "year": 2016,
+    "name": "Echidna",
+    "mintage": 34400000,
+    "search_terms": [
+      "2016 5c echidna",
+      "2016 5 cent standard issue"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2016"
+  },
+  {
+    "id": 52,
+    "year": 2016,
+    "name": "50th Anniversary of Decimal Currency (Changeover)",
+    "mintage": 4888661,
+    "search_terms": [
+      "2016 5c changeover",
+      "2016 5c 50th anniversary decimal currency"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2016 FIFTY YEARS"
+  },
+  {
+    "id": 53,
+    "year": 2017,
+    "name": "Echidna",
+    "mintage": 18600000,
+    "search_terms": [
+      "2017 five cent coin",
+      "2017 5c coin",
+      "2017 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 54,
+    "year": 2018,
+    "name": "Echidna",
+    "mintage": 25100000,
+    "search_terms": [
+      "2018 five cent coin",
+      "2018 5c coin",
+      "2018 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 55,
+    "year": 2019,
+    "name": "Echidna (Fourth Portrait)",
+    "mintage": 46100000,
+    "search_terms": [
+      "2019 5c Ian Rank-Broadley",
+      "2019 5c 4th portrait",
+      "2019 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 56,
+    "year": 2019,
+    "name": "Echidna (Jody Clark Effigy)",
+    "mintage": 4100000,
+    "search_terms": [
+      "2019 5c Jody Clark",
+      "2019 5c 5th portrait",
+      "2019 jc 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2019"
+  },
+  {
+    "id": 57,
+    "year": 2020,
+    "name": "Echidna",
+    "mintage": 34500000,
+    "search_terms": [
+      "2020 five cent coin",
+      "2020 5c coin",
+      "2020 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2020"
+  },
+  {
+    "id": 58,
+    "year": 2021,
+    "name": "Echidna",
+    "mintage": 4500000,
+    "search_terms": [
+      "2021 five cent coin",
+      "2021 5c coin",
+      "2021 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 59,
+    "year": 2022,
+    "name": "Echidna",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 five cent coin",
+      "2022 5c coin",
+      "2022 echidna 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 60,
+    "year": 2023,
+    "name": "Echidna",
+    "mintage": "unknown",
+    "search_terms": [
+      "2023 5c jody clark",
+      "2023 5 cent coin",
+      "2023 echidna 5c standard"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2023"
+  },
+  {
+    "id": 61,
+    "year": 2023,
+    "name": "Echidna (Memorial Obverse)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2023 5c memorial coin",
+      "2023 5 cent memorial obverse",
+      "2023 1952-2022 5c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023"
+  },
+  {
+    "id": 62,
+    "year": 2024,
+    "name": "Echidna",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 five cent coin",
+      "2024 5c King Charles",
+      "2024 Charles III 5c"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 63,
+    "year": 2025,
+    "name": "Echidna",
+    "mintage": "unknown",
+    "search_terms": [
+      "2025 five cent coin",
+      "2025 5c King Charles",
+      "2025 Charles III 5c"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2025"
+  }
+]

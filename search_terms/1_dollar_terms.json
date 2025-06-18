@@ -1,0 +1,2757 @@
+[
+  {
+    "id": 0,
+    "year": 1984,
+    "name": "Mob of Roos",
+    "mintage": 186144000,
+    "search_terms": [
+      "1984 one dollar coin",
+      "1984 $1 coin mob of roos",
+      "1984 australian dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1984"
+  },
+  {
+    "id": 1,
+    "year": 1985,
+    "name": "Mob of Roos",
+    "mintage": 96200000,
+    "search_terms": [
+      "1985 one dollar coin",
+      "1985 $1 coin mob of roos",
+      "1985 australian dollar third portrait"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1985"
+  },
+  {
+    "id": 2,
+    "year": 1986,
+    "name": "International Year of Peace",
+    "mintage": 25167000,
+    "search_terms": [
+      "1986 one dollar coin",
+      "1986 $1 coin year of peace",
+      "1986 international year of peace dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1986"
+  },
+  {
+    "id": 3,
+    "year": 1987,
+    "name": "Mob of Roos (mint sets only)",
+    "mintage": 270000,
+    "search_terms": [
+      "1987 one dollar coin",
+      "1987 $1 coin mint set",
+      "1987 mob of roos dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1987"
+  },
+  {
+    "id": 4,
+    "year": 1988,
+    "name": "Australian Bicentenary - First Fleet",
+    "mintage": 21600000,
+    "search_terms": [
+      "1988 one dollar coin",
+      "1988 $1 coin bicentenary",
+      "1988 first fleet dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1988"
+  },
+  {
+    "id": 5,
+    "year": 1989,
+    "name": "Mob of Roos (mint sets only)",
+    "mintage": "unknown",
+    "search_terms": [
+      "1989 one dollar coin",
+      "1989 $1 coin mint set",
+      "1989 mob of roos dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1989"
+  },
+  {
+    "id": 6,
+    "year": 1990,
+    "name": "Mob of Roos (mint sets only)",
+    "mintage": "unknown",
+    "search_terms": [
+      "1990 one dollar coin",
+      "1990 $1 coin mint set",
+      "1990 mob of roos dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1990"
+  },
+  {
+    "id": 7,
+    "year": 1991,
+    "name": "Mob of Roos (mint sets only)",
+    "mintage": "unknown",
+    "search_terms": [
+      "1991 one dollar coin",
+      "1991 $1 coin mint set",
+      "1991 mob of roos dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1991"
+  },
+  {
+    "id": 8,
+    "year": 1992,
+    "name": "Mob of Roos - Barcelona Olympics",
+    "mintage": 8000,
+    "search_terms": [
+      "1992 one dollar coin",
+      "1992 $1 coin mob of roos",
+      "1992 barcelona olympics dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1992"
+  },
+  {
+    "id": 9,
+    "year": 1993,
+    "name": "Landcare",
+    "mintage": 18157036,
+    "search_terms": [
+      "1993 one dollar coin",
+      "1993 $1 coin landcare",
+      "1993 landcare australia dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1993"
+  },
+  {
+    "id": 10,
+    "year": 1994,
+    "name": "10th Anniversary of the One Dollar Coin",
+    "mintage": 47639000,
+    "search_terms": [
+      "1994 one dollar coin",
+      "1994 $1 coin 10th anniversary",
+      "1994 mob of roos dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1994"
+  },
+  {
+    "id": 11,
+    "year": 1995,
+    "name": "Waltzing Matilda",
+    "mintage": 21412000,
+    "search_terms": [
+      "1995 one dollar coin",
+      "1995 $1 coin waltzing matilda",
+      "1995 centenary of waltzing matilda dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1995"
+  },
+  {
+    "id": 12,
+    "year": 1996,
+    "name": "Sir Henry Parkes",
+    "mintage": 26572010,
+    "search_terms": [
+      "1996 one dollar coin",
+      "1996 $1 coin sir henry parkes",
+      "1996 father of federation dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1996"
+  },
+  {
+    "id": 13,
+    "year": 1997,
+    "name": "Sir Charles Kingsford-Smith",
+    "mintage": 24381000,
+    "search_terms": [
+      "1997 one dollar coin",
+      "1997 $1 coin kingsford-smith",
+      "1997 centenary of birth kingsford smith dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1997"
+  },
+  {
+    "id": 14,
+    "year": 1998,
+    "name": "Howard Florey",
+    "mintage": 16248000,
+    "search_terms": [
+      "1998 one dollar coin",
+      "1998 $1 coin howard florey",
+      "1998 discovery of penicillin dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1998"
+  },
+  {
+    "id": 15,
+    "year": 1999,
+    "name": "International Year of Older Persons",
+    "mintage": 29218000,
+    "search_terms": [
+      "1999 one dollar coin",
+      "1999 $1 coin older persons",
+      "1999 international year of older persons dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1999"
+  },
+  {
+    "id": 16,
+    "year": 2000,
+    "name": "Victoria Cross",
+    "mintage": 7627153,
+    "search_terms": [
+      "2000 one dollar coin",
+      "2000 $1 coin victoria cross",
+      "2000 for valour dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2000"
+  },
+  {
+    "id": 17,
+    "year": 2001,
+    "name": "Centenary of Federation",
+    "mintage": 28449967,
+    "search_terms": [
+      "2001 one dollar coin",
+      "2001 $1 coin centenary of federation",
+      "2001 federation dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id": 18,
+    "year": 2001,
+    "name": "International Year of Volunteers",
+    "mintage": 6000000,
+    "search_terms": [
+      "2001 one dollar coin volunteers",
+      "2001 $1 coin international year of volunteers",
+      "2001 volunteers dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id": 19,
+    "year": 2002,
+    "name": "Year of the Outback",
+    "mintage": 34401832,
+    "search_terms": [
+      "2002 one dollar coin",
+      "2002 $1 coin year of the outback",
+      "2002 outback dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2002"
+  },
+  {
+    "id": 20,
+    "year": 2003,
+    "name": "Australia's Volunteers",
+    "mintage": 4149000,
+    "search_terms": [
+      "2003 one dollar coin volunteers",
+      "2003 $1 coin australia's volunteers",
+      "2003 volunteers dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2003"
+  },
+  {
+    "id": 21,
+    "year": 2003,
+    "name": "Centenary of Women's Suffrage",
+    "mintage": 10007000,
+    "search_terms": [
+      "2003 one dollar coin suffrage",
+      "2003 $1 coin women's suffrage",
+      "2003 centenary of women's suffrage dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2003"
+  },
+  {
+    "id": 22,
+    "year": 2004,
+    "name": "Eureka Stockade",
+    "mintage": 8850000,
+    "search_terms": [
+      "2004 one dollar coin",
+      "2004 $1 coin eureka stockade",
+      "2004 150th anniversary eureka stockade dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2004"
+  },
+  {
+    "id": 23,
+    "year": 2005,
+    "name": "Mob of Roos",
+    "mintage": 5825520,
+    "search_terms": [
+      "2005 one dollar coin mob of roos",
+      "2005 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2005"
+  },
+  {
+    "id": 24,
+    "year": 2005,
+    "name": "60th Anniversary of the End of WWII",
+    "mintage": 34200000,
+    "search_terms": [
+      "2005 one dollar coin ww2",
+      "2005 $1 coin end of world war 2",
+      "2005 peace dollar",
+      "2005 dancing man dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2005"
+  },
+  {
+    "id": 25,
+    "year": 2006,
+    "name": "Commonwealth Games",
+    "mintage": 38900000,
+    "search_terms": [
+      "2006 one dollar coin",
+      "2006 $1 coin commonwealth games",
+      "2006 melbourne commonwealth games dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2006"
+  },
+  {
+    "id": 26,
+    "year": 2007,
+    "name": "Mob of Roos (mint sets only)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2007 one dollar coin mint set",
+      "2007 $1 coin mob of roos"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2007"
+  },
+  {
+    "id": 27,
+    "year": 2007,
+    "name": "APEC Australia",
+    "mintage": 20108000,
+    "search_terms": [
+      "2007 one dollar coin apec",
+      "2007 $1 coin apec",
+      "2007 apec australia dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2007"
+  },
+  {
+    "id": 28,
+    "year": 2008,
+    "name": "Mob of Roos",
+    "mintage": 30106000,
+    "search_terms": [
+      "2008 one dollar coin mob of roos",
+      "2008 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2008"
+  },
+  {
+    "id": 29,
+    "year": 2008,
+    "name": "Centenary of Scouting",
+    "mintage": 17200000,
+    "search_terms": [
+      "2008 one dollar coin scouting",
+      "2008 $1 coin centenary of scouting",
+      "2008 scouts dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2008"
+  },
+  {
+    "id": 30,
+    "year": 2009,
+    "name": "Mob of Roos",
+    "mintage": 21200000,
+    "search_terms": [
+      "2009 one dollar coin mob of roos",
+      "2009 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2009"
+  },
+  {
+    "id": 31,
+    "year": 2009,
+    "name": "Centenary of Age Pension",
+    "mintage": 21300000,
+    "search_terms": [
+      "2009 one dollar coin age pension",
+      "2009 $1 coin centenary of age pension",
+      "2009 age pension dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2009"
+  },
+  {
+    "id": 32,
+    "year": 2010,
+    "name": "Mob of Roos",
+    "mintage": 16700000,
+    "search_terms": [
+      "2010 one dollar coin mob of roos",
+      "2010 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2010"
+  },
+  {
+    "id": 33,
+    "year": 2010,
+    "name": "Centenary of Girl Guiding",
+    "mintage": 12600000,
+    "search_terms": [
+      "2010 one dollar coin girl guides",
+      "2010 $1 coin girl guiding",
+      "2010 centenary of girl guiding dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2010"
+  },
+  {
+    "id": 34,
+    "year": 2011,
+    "name": "Mob of Roos",
+    "mintage": 17900000,
+    "search_terms": [
+      "2011 one dollar coin mob of roos",
+      "2011 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2011"
+  },
+  {
+    "id": 35,
+    "year": 2011,
+    "name": "CHOGM",
+    "mintage": 9400000,
+    "search_terms": [
+      "2011 one dollar coin chogm",
+      "2011 $1 coin chogm",
+      "2011 commonwealth heads of government meeting dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2011"
+  },
+  {
+    "id": 36,
+    "year": 2012,
+    "name": "Mob of Roos (mint sets only)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2012 one dollar coin mint set",
+      "2012 $1 coin mob of roos"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2012"
+  },
+  {
+    "id": 37,
+    "year": 2013,
+    "name": "Mob of Roos",
+    "mintage": 20900000,
+    "search_terms": [
+      "2013 one dollar coin mob of roos",
+      "2013 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2013"
+  },
+  {
+    "id": 38,
+    "year": 2014,
+    "name": "Mob of Roos",
+    "mintage": 1052000,
+    "search_terms": [
+      "2014 one dollar coin mob of roos",
+      "2014 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2014"
+  },
+  {
+    "id": 39,
+    "year": 2014,
+    "name": "100th Anniversary of ANZAC",
+    "mintage": 21800000,
+    "search_terms": [
+      "2014 one dollar coin anzac",
+      "2014 $1 coin anzac",
+      "2014 anzac centenary dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2014"
+  },
+  {
+    "id": 40,
+    "year": 2015,
+    "name": "Mob of Roos",
+    "mintage": 22300000,
+    "search_terms": [
+      "2015 one dollar coin mob of roos",
+      "2015 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2015"
+  },
+  {
+    "id": 41,
+    "year": 2015,
+    "name": "100th Anniversary of ANZAC",
+    "mintage": 1300000,
+    "search_terms": [
+      "2015 one dollar coin anzac",
+      "2015 $1 coin anzac",
+      "2015 anzac centenary dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2015"
+  },
+  {
+    "id": 42,
+    "year": 2016,
+    "name": "Mob of Roos",
+    "mintage": 30200000,
+    "search_terms": [
+      "2016 one dollar coin mob of roos",
+      "2016 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2016"
+  },
+  {
+    "id": 43,
+    "year": 2016,
+    "name": "100th Anniversary of ANZAC",
+    "mintage": 2190000,
+    "search_terms": [
+      "2016 one dollar coin anzac",
+      "2016 $1 coin anzac",
+      "2016 anzac centenary dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2016"
+  },
+  {
+    "id": 44,
+    "year": 2016,
+    "name": "50th Anniversary of Decimal Currency (Changeover)",
+    "mintage": 665888,
+    "search_terms": [
+      "2016 one dollar coin changeover",
+      "2016 $1 coin changeover",
+      "2016 decimal currency dollar",
+      "2016 fifty years dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2016 FIFTY YEARS"
+  },
+  {
+    "id": 45,
+    "year": 2017,
+    "name": "Mob of Roos",
+    "mintage": 11100000,
+    "search_terms": [
+      "2017 one dollar coin mob of roos",
+      "2017 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 46,
+    "year": 2017,
+    "name": "100th Anniversary of ANZAC",
+    "mintage": 1900000,
+    "search_terms": [
+      "2017 one dollar coin anzac",
+      "2017 $1 coin anzac",
+      "2017 anzac centenary dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 47,
+    "year": 2017,
+    "name": "Possum Magic - Invisible Hush",
+    "mintage": 401000,
+    "search_terms": [
+      "2017 one dollar coin possum magic",
+      "2017 $1 coin invisible hush",
+      "2017 possum magic dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 48,
+    "year": 2017,
+    "name": "Possum Magic - Cycling in Search of Food",
+    "mintage": 401000,
+    "search_terms": [
+      "2017 one dollar coin possum magic cycling",
+      "2017 $1 coin possum magic"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 49,
+    "year": 2017,
+    "name": "Possum Magic - Eating Lamingtons",
+    "mintage": 401000,
+    "search_terms": [
+      "2017 one dollar coin possum magic lamingtons",
+      "2017 $1 coin possum magic"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 50,
+    "year": 2017,
+    "name": "Possum Magic - Visible Hush",
+    "mintage": 401000,
+    "search_terms": [
+      "2017 one dollar coin possum magic visible hush",
+      "2017 $1 coin possum magic"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id": 51,
+    "year": 2018,
+    "name": "Mob of Roos",
+    "mintage": 12800000,
+    "search_terms": [
+      "2018 one dollar coin mob of roos",
+      "2018 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 52,
+    "year": 2018,
+    "name": "100th Anniversary of ANZAC - Armistice",
+    "mintage": 2000000,
+    "search_terms": [
+      "2018 one dollar coin anzac",
+      "2018 $1 coin armistice",
+      "2018 anzac centenary dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 53,
+    "year": 2018,
+    "name": "Gold Coast Commonwealth Games - Design 1",
+    "mintage": 450000,
+    "search_terms": [
+      "2018 one dollar coin gold coast games",
+      "2018 $1 coin commonwealth games"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 54,
+    "year": 2018,
+    "name": "Gold Coast Commonwealth Games - Design 2",
+    "mintage": 450000,
+    "search_terms": [
+      "2018 one dollar coin gold coast games",
+      "2018 $1 coin commonwealth games"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 55,
+    "year": 2018,
+    "name": "Gold Coast Commonwealth Games - Design 3",
+    "mintage": 450000,
+    "search_terms": [
+      "2018 one dollar coin gold coast games",
+      "2018 $1 coin commonwealth games"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 56,
+    "year": 2018,
+    "name": "Gold Coast Commonwealth Games - Design 4",
+    "mintage": 450000,
+    "search_terms": [
+      "2018 one dollar coin gold coast games",
+      "2018 $1 coin commonwealth games"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2018"
+  },
+  {
+    "id": 57,
+    "year": 2019,
+    "name": "Mob of Roos (Fourth Portrait)",
+    "mintage": 13237000,
+    "search_terms": [
+      "2019 one dollar coin mob of roos",
+      "2019 $1 coin 4th portrait"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 58,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - A (Australia Post)",
+    "mintage": 537500,
+    "search_terms": [
+      "2019 one dollar coin A",
+      "2019 $1 coin Australia Post",
+      "2019 great aussie coin hunt A"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 59,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - B (Boomerang)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin B",
+      "2019 $1 coin boomerang",
+      "2019 great aussie coin hunt B"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 60,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - C (Cricket)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin C",
+      "2019 $1 coin cricket",
+      "2019 great aussie coin hunt C"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 61,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - D (Didgeridoo)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin D",
+      "2019 $1 coin didgeridoo",
+      "2019 great aussie coin hunt D"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 62,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - E (Esky)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin E",
+      "2019 $1 coin esky",
+      "2019 great aussie coin hunt E"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 63,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - F (Footy)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin F",
+      "2019 $1 coin footy",
+      "2019 great aussie coin hunt F"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 64,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - G (G’day)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin G",
+      "2019 $1 coin g'day",
+      "2019 great aussie coin hunt G"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 65,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - H (Hills Hoist)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin H",
+      "2019 $1 coin hills hoist",
+      "2019 great aussie coin hunt H"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 66,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - I (Iced VoVo)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin I",
+      "2019 $1 coin iced vovo",
+      "2019 great aussie coin hunt I"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 67,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - J (Jackaroo and Jillaroo)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin J",
+      "2019 $1 coin jackaroo jillaroo",
+      "2019 great aussie coin hunt J"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 68,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - K (Kangaroo)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin K",
+      "2019 $1 coin kangaroo",
+      "2019 great aussie coin hunt K"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 69,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - L (Lamington)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin L",
+      "2019 $1 coin lamington",
+      "2019 great aussie coin hunt L"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 70,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - M (Meat Pie)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin M",
+      "2019 $1 coin meat pie",
+      "2019 great aussie coin hunt M"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 71,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - N (Neighbours)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin N",
+      "2019 $1 coin neighbours",
+      "2019 great aussie coin hunt N"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 72,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - O (Outback)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin O",
+      "2019 $1 coin outback",
+      "2019 great aussie coin hunt O"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 73,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - P (Platypus)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin P",
+      "2019 $1 coin platypus",
+      "2019 great aussie coin hunt P"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 74,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - Q (Quokka)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin Q",
+      "2019 $1 coin quokka",
+      "2019 great aussie coin hunt Q"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 75,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - R (Royal Flying Doctor Service)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin R",
+      "2019 $1 coin royal flying doctor",
+      "2019 great aussie coin hunt R"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 76,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - S (Surf Life Saving)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin S",
+      "2019 $1 coin surf life saving",
+      "2019 great aussie coin hunt S"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 77,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - T (Thongs)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin T",
+      "2019 $1 coin thongs",
+      "2019 great aussie coin hunt T"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 78,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - U (Ute)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin U",
+      "2019 $1 coin ute",
+      "2019 great aussie coin hunt U"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 79,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - V (Vegemite)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin V",
+      "2019 $1 coin vegemite",
+      "2019 great aussie coin hunt V"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 80,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - W (Weet-bix)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin W",
+      "2019 $1 coin weet-bix",
+      "2019 great aussie coin hunt W"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 81,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - X (Xantippe)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin X",
+      "2019 $1 coin xantippe",
+      "2019 great aussie coin hunt X"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 82,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - Y (Yowie)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin Y",
+      "2019 $1 coin yowie",
+      "2019 great aussie coin hunt Y"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 83,
+    "year": 2019,
+    "name": "Great Aussie Coin Hunt - Z (Zooper Dooper)",
+    "mintage": 523000,
+    "search_terms": [
+      "2019 one dollar coin Z",
+      "2019 $1 coin zooper dooper",
+      "2019 great aussie coin hunt Z"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id": 84,
+    "year": 2019,
+    "name": "Mr Squiggle - Balloons",
+    "mintage": 365000,
+    "search_terms": [
+      "2019 one dollar coin mr squiggle",
+      "2019 $1 coin mr squiggle balloons",
+      "2019 jody clark effigy dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2019"
+  },
+  {
+    "id": 85,
+    "year": 2019,
+    "name": "Mr Squiggle - Rocket",
+    "mintage": 365000,
+    "search_terms": [
+      "2019 one dollar coin mr squiggle rocket",
+      "2019 $1 coin mr squiggle",
+      "2019 jody clark effigy dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2019"
+  },
+  {
+    "id": 86,
+    "year": 2019,
+    "name": "Mob of Roos (Fifth Portrait)",
+    "mintage": 2300000,
+    "search_terms": [
+      "2019 one dollar coin mob of roos 5th portrait",
+      "2019 $1 coin jody clark",
+      "2019 mob of roos jody clark effigy"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2019"
+  },
+  {
+    "id": 87,
+    "year": 2020,
+    "name": "Mob of Roos",
+    "mintage": 430000,
+    "search_terms": [
+      "2020 one dollar coin mob of roos",
+      "2020 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2020"
+  },
+  {
+    "id": 88,
+    "year": 2020,
+    "name": "Qantas Centenary",
+    "mintage": 600000,
+    "search_terms": [
+      "2020 one dollar coin qantas",
+      "2020 $1 coin qantas centenary"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2020"
+  },
+  {
+    "id": 89,
+    "year": 2020,
+    "name": "Donation Dollar",
+    "mintage": 12500000,
+    "search_terms": [
+      "2020 one dollar coin donation",
+      "2020 $1 coin donation dollar",
+      "give to help others dollar 2020"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2020 · 1 DOLLAR ·"
+  },
+  {
+    "id": 90,
+    "year": 2021,
+    "name": "Mob of Roos",
+    "mintage": 160000,
+    "search_terms": [
+      "2021 one dollar coin mob of roos",
+      "2021 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 91,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - A (Akubra)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin A",
+      "2021 $1 coin akubra",
+      "2021 great aussie coin hunt A"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 92,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - B (BBQ)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin B",
+      "2021 $1 coin BBQ",
+      "2021 great aussie coin hunt B"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 93,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - C (Cherry Ripe)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin C",
+      "2021 $1 coin cherry ripe",
+      "2021 great aussie coin hunt C"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 94,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - D (Dingo)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin D",
+      "2021 $1 coin dingo",
+      "2021 great aussie coin hunt D"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 95,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - E (Emu)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin E",
+      "2021 $1 coin emu",
+      "2021 great aussie coin hunt E"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 96,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - F (Flies)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin F",
+      "2021 $1 coin flies",
+      "2021 great aussie coin hunt F"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 97,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - G (Great Barrier Reef)",
+    "mintage": 681000,
+    "search_terms": [
+      "2021 one dollar coin G",
+      "2021 $1 coin great barrier reef",
+      "2021 great aussie coin hunt G"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 98,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - H (Home and Away)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin H",
+      "2021 $1 coin home and away",
+      "2021 great aussie coin hunt H"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 99,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - I (Ironbark)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin I",
+      "2021 $1 coin ironbark",
+      "2021 great aussie coin hunt I"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 100,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - J (Jolly Swagman)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin J",
+      "2021 $1 coin jolly swagman",
+      "2021 great aussie coin hunt J"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 101,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - K (Koala)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin K",
+      "2021 $1 coin koala",
+      "2021 great aussie coin hunt K"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 102,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - L (Lyrebird)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin L",
+      "2021 $1 coin lyrebird",
+      "2021 great aussie coin hunt L"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 103,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - M (Milo)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin M",
+      "2021 $1 coin milo",
+      "2021 great aussie coin hunt M"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 104,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - N (Nobby's Nuts)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin N",
+      "2021 $1 coin nobbys nuts",
+      "2021 great aussie coin hunt N"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 105,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - O (Opera House)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin O",
+      "2021 $1 coin opera house",
+      "2021 great aussie coin hunt O"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 106,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - P (Pavlova)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin P",
+      "2021 $1 coin pavlova",
+      "2021 great aussie coin hunt P"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 107,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - Q (Queen Victoria Market)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin Q",
+      "2021 $1 coin queen victoria market",
+      "2021 great aussie coin hunt Q"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 108,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - R (Redback Spider)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin R",
+      "2021 $1 coin redback spider",
+      "2021 great aussie coin hunt R"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 109,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - S (Sydney Harbour Bridge)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin S",
+      "2021 $1 coin sydney harbour bridge",
+      "2021 great aussie coin hunt S"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 110,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - T (Tim Tam)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin T",
+      "2021 $1 coin tim tam",
+      "2021 great aussie coin hunt T"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 111,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - U (Ulysses Butterfly)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin U",
+      "2021 $1 coin ulysses butterfly",
+      "2021 great aussie coin hunt U"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 112,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - V (Victa Lawnmower)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin V",
+      "2021 $1 coin victa",
+      "2021 great aussie coin hunt V"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 113,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - W (Witchetty Grub)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin W",
+      "2021 $1 coin witchetty grub",
+      "2021 great aussie coin hunt W"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 114,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - X (Xanthorrhoea)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin X",
+      "2021 $1 coin xanthorrhoea",
+      "2021 great aussie coin hunt X"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 115,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - Y (Yabby)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin Y",
+      "2021 $1 coin yabby",
+      "2021 great aussie coin hunt Y"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 116,
+    "year": 2021,
+    "name": "Great Aussie Coin Hunt 2 - Z (Zinc Sunscreen)",
+    "mintage": 456000,
+    "search_terms": [
+      "2021 one dollar coin Z",
+      "2021 $1 coin zinc",
+      "2021 great aussie coin hunt Z"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 117,
+    "year": 2021,
+    "name": "Donation Dollar",
+    "mintage": "unknown",
+    "search_terms": [
+      "2021 one dollar coin donation",
+      "2021 $1 coin donation dollar",
+      "give to help others dollar 2021"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021 · 1 DOLLAR ·"
+  },
+  {
+    "id": 118,
+    "year": 2021,
+    "name": "The Wiggles - Original Members",
+    "mintage": 300000,
+    "search_terms": [
+      "2021 one dollar coin wiggles",
+      "2021 $1 coin original wiggles"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 119,
+    "year": 2021,
+    "name": "The Wiggles - New Members",
+    "mintage": 300000,
+    "search_terms": [
+      "2021 one dollar coin wiggles",
+      "2021 $1 coin new wiggles"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2021"
+  },
+  {
+    "id": 120,
+    "year": 2022,
+    "name": "Mob of Roos",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin mob of roos",
+      "2022 $1 coin"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 121,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - A (Aussie Aussie Aussie)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin A",
+      "2022 $1 coin aussie aussie aussie",
+      "2022 great aussie coin hunt A"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 122,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - B (Bushrangers)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin B",
+      "2022 $1 coin bushrangers",
+      "2022 great aussie coin hunt B"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 123,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - C (Cockatoo)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin C",
+      "2022 $1 coin cockatoo",
+      "2022 great aussie coin hunt C"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 124,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - D (Darrell Lea)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin D",
+      "2022 $1 coin darrell lea",
+      "2022 great aussie coin hunt D"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 125,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - E (Echidna)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin E",
+      "2022 $1 coin echidna",
+      "2022 great aussie coin hunt E"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 126,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - F (Farmers)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin F",
+      "2022 $1 coin farmers",
+      "2022 great aussie coin hunt F"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 127,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - G (Great Ocean Road)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin G",
+      "2022 $1 coin great ocean road",
+      "2022 great aussie coin hunt G"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 128,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - H (Hooroo)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin H",
+      "2022 $1 coin hooroo",
+      "2022 great aussie coin hunt H"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 129,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - I (Irukandji Jellyfish)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin I",
+      "2022 $1 coin irukandji jellyfish",
+      "2022 great aussie coin hunt I"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 130,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - J (Jumbuck)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin J",
+      "2022 $1 coin jumbuck",
+      "2022 great aussie coin hunt J"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 131,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - K (Kelpie)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin K",
+      "2022 $1 coin kelpie",
+      "2022 great aussie coin hunt K"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 132,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - L (Luna Park)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin L",
+      "2022 $1 coin luna park",
+      "2022 great aussie coin hunt L"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 133,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - M (Magpie)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin M",
+      "2022 $1 coin magpie",
+      "2022 great aussie coin hunt M"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 134,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - N (Nullarbor Plain)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin N",
+      "2022 $1 coin nullarbor plain",
+      "2022 great aussie coin hunt N"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 135,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - O (Opal)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin O",
+      "2022 $1 coin opal",
+      "2022 great aussie coin hunt O"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 136,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - P (Pinnacles)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin P",
+      "2022 $1 coin pinnacles",
+      "2022 great aussie coin hunt P"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 137,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - Q (Quoll)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin Q",
+      "2022 $1 coin quoll",
+      "2022 great aussie coin hunt Q"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 138,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - R (R. M. Williams)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin R",
+      "2022 $1 coin rm williams",
+      "2022 great aussie coin hunt R"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 139,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - S (Surfing)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin S",
+      "2022 $1 coin surfing",
+      "2022 great aussie coin hunt S"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 140,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - T (Tasmanian Devil)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin T",
+      "2022 $1 coin tasmanian devil",
+      "2022 great aussie coin hunt T"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 141,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - U (Undara Lava Tubes)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin U",
+      "2022 $1 coin undara lava tubes",
+      "2022 great aussie coin hunt U"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 142,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - V (Vanilla Slice)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin V",
+      "2022 $1 coin vanilla slice",
+      "2022 great aussie coin hunt V"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 143,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - W (Wattle)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin W",
+      "2022 $1 coin wattle",
+      "2022 great aussie coin hunt W"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 144,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - X (Crux)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin X",
+      "2022 $1 coin crux",
+      "2022 great aussie coin hunt X"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 145,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - Y (Yarra Valley)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin Y",
+      "2022 $1 coin yarra valley",
+      "2022 great aussie coin hunt Y"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 146,
+    "year": 2022,
+    "name": "Great Aussie Coin Hunt 3 - Z (Zebra Finch)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2022 one dollar coin Z",
+      "2022 $1 coin zebra finch",
+      "2022 great aussie coin hunt Z"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 147,
+    "year": 2022,
+    "name": "Australian Dinosaurs - Diamantinasaurus",
+    "mintage": 292500,
+    "search_terms": [
+      "2022 one dollar coin dinosaurs",
+      "2022 $1 coin Diamantinasaurus",
+      "2022 australian dinosaurs dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 148,
+    "year": 2022,
+    "name": "Australian Dinosaurs - Australovenator",
+    "mintage": 292500,
+    "search_terms": [
+      "2022 one dollar coin dinosaurs",
+      "2022 $1 coin Australovenator",
+      "2022 australian dinosaurs dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 149,
+    "year": 2022,
+    "name": "Australian Dinosaurs - Kunbarrasaurus",
+    "mintage": 292500,
+    "search_terms": [
+      "2022 one dollar coin dinosaurs",
+      "2022 $1 coin Kunbarrasaurus",
+      "2022 australian dinosaurs dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 150,
+    "year": 2022,
+    "name": "Australian Dinosaurs - Elaphrosaurine",
+    "mintage": 292500,
+    "search_terms": [
+      "2022 one dollar coin dinosaurs",
+      "2022 $1 coin Elaphrosaurine",
+      "2022 australian dinosaurs dollar"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2022"
+  },
+  {
+    "id": 151,
+    "year": 2023,
+    "name": "Mob of Roos - QEII Memorial Obverse",
+    "mintage": "unknown",
+    "search_terms": [
+      "2023 one dollar coin queen elizabeth memorial",
+      "2023 $1 coin mob of roos 1952-2022"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023"
+  },
+  {
+    "id": 152,
+    "year": 2023,
+    "name": "Australian Football League (AFL)",
+    "mintage": 1668000,
+    "search_terms": [
+      "2023 one dollar coin afl",
+      "2023 $1 coin afl logo"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 153,
+    "year": 2023,
+    "name": "Australian Football League Women's (AFLW)",
+    "mintage": 1665000,
+    "search_terms": [
+      "2023 one dollar coin aflw",
+      "2023 $1 coin aflw logo"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 154,
+    "year": 2023,
+    "name": "AFL - Adelaide Football Club",
+    "mintage": 179500,
+    "search_terms": [
+      "2023 one dollar coin afl adelaide crows",
+      "2023 $1 coin afl adelaide"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 155,
+    "year": 2023,
+    "name": "AFL - Brisbane Lions",
+    "mintage": 174500,
+    "search_terms": [
+      "2023 one dollar coin afl brisbane lions",
+      "2023 $1 coin afl brisbane"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 156,
+    "year": 2023,
+    "name": "AFL - Carlton Football Club",
+    "mintage": 184500,
+    "search_terms": [
+      "2023 one dollar coin afl carlton",
+      "2023 $1 coin afl carlton blues"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 157,
+    "year": 2023,
+    "name": "AFL - Collingwood Football Club",
+    "mintage": 189500,
+    "search_terms": [
+      "2023 one dollar coin afl collingwood",
+      "2023 $1 coin afl magpies"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 158,
+    "year": 2023,
+    "name": "AFL - Essendon Football Club",
+    "mintage": 184500,
+    "search_terms": [
+      "2023 one dollar coin afl essendon",
+      "2023 $1 coin afl bombers"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 159,
+    "year": 2023,
+    "name": "AFL - Fremantle Football Club",
+    "mintage": 179500,
+    "search_terms": [
+      "2023 one dollar coin afl fremantle",
+      "2023 $1 coin afl dockers"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 160,
+    "year": 2023,
+    "name": "AFL - Geelong Cats",
+    "mintage": 184500,
+    "search_terms": [
+      "2023 one dollar coin afl geelong",
+      "2023 $1 coin afl geelong cats"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 161,
+    "year": 2023,
+    "name": "AFL - Gold Coast Suns",
+    "mintage": 172500,
+    "search_terms": [
+      "2023 one dollar coin afl gold coast",
+      "2023 $1 coin afl suns"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 162,
+    "year": 2023,
+    "name": "AFL - Greater Western Sydney Giants",
+    "mintage": 174500,
+    "search_terms": [
+      "2023 one dollar coin afl gws",
+      "2023 $1 coin afl giants"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 163,
+    "year": 2023,
+    "name": "AFL - Hawthorn Football Club",
+    "mintage": 189500,
+    "search_terms": [
+      "2023 one dollar coin afl hawthorn",
+      "2023 $1 coin afl hawks"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 164,
+    "year": 2023,
+    "name": "AFL - Melbourne Football Club",
+    "mintage": 179500,
+    "search_terms": [
+      "2023 one dollar coin afl melbourne",
+      "2023 $1 coin afl demons"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 165,
+    "year": 2023,
+    "name": "AFL - North Melbourne Kangaroos",
+    "mintage": 175500,
+    "search_terms": [
+      "2023 one dollar coin afl north melbourne",
+      "2023 $1 coin afl kangaroos"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 166,
+    "year": 2023,
+    "name": "AFL - Port Adelaide Football Club",
+    "mintage": 179500,
+    "search_terms": [
+      "2023 one dollar coin afl port adelaide",
+      "2023 $1 coin afl power"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 167,
+    "year": 2023,
+    "name": "AFL - Richmond Football Club",
+    "mintage": 194500,
+    "search_terms": [
+      "2023 one dollar coin afl richmond",
+      "2023 $1 coin afl tigers"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 168,
+    "year": 2023,
+    "name": "AFL - St Kilda Football Club",
+    "mintage": 179500,
+    "search_terms": [
+      "2023 one dollar coin afl st kilda",
+      "2023 $1 coin afl saints"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 169,
+    "year": 2023,
+    "name": "AFL - Sydney Swans",
+    "mintage": 179500,
+    "search_terms": [
+      "2023 one dollar coin afl sydney swans",
+      "2023 $1 coin afl sydney"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 170,
+    "year": 2023,
+    "name": "AFL - West Coast Eagles",
+    "mintage": 194500,
+    "search_terms": [
+      "2023 one dollar coin afl west coast eagles",
+      "2023 $1 coin afl west coast"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 171,
+    "year": 2023,
+    "name": "AFL - Western Bulldogs",
+    "mintage": 176500,
+    "search_terms": [
+      "2023 one dollar coin afl western bulldogs",
+      "2023 $1 coin afl bulldogs"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 172,
+    "year": 2023,
+    "name": "Matildas - Striker",
+    "mintage": 1000000,
+    "search_terms": [
+      "2023 one dollar coin matildas",
+      "2023 $1 coin matildas striker"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 173,
+    "year": 2023,
+    "name": "Matildas - Header",
+    "mintage": 1000000,
+    "search_terms": [
+      "2023 one dollar coin matildas",
+      "2023 $1 coin matildas header"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 174,
+    "year": 2023,
+    "name": "Matildas - Tackle",
+    "mintage": 1000000,
+    "search_terms": [
+      "2023 one dollar coin matildas",
+      "2023 $1 coin matildas tackle"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 175,
+    "year": 2023,
+    "name": "Matildas - Keeper",
+    "mintage": 1000000,
+    "search_terms": [
+      "2023 one dollar coin matildas",
+      "2023 $1 coin matildas keeper"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 176,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Banana",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big banana"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 177,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Blue Heeler",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big blue heeler"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 178,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Jumping Crocodile",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big jumping crocodile"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 179,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Lobster",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big lobster"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 180,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Pineapple",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big pineapple"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 181,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Swoop",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big swoop"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 182,
+    "year": 2023,
+    "name": "Aussie Big Things - The Big Tasmanian Devil",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin big tasmanian devil"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 183,
+    "year": 2023,
+    "name": "Aussie Big Things - The Giant Koala",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin giant koala"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 184,
+    "year": 2023,
+    "name": "Aussie Big Things - The Giant Murray Cod",
+    "mintage": 513499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin giant murray cod"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 185,
+    "year": 2023,
+    "name": "Aussie Big Things - The Giant Ram",
+    "mintage": 508499,
+    "search_terms": [
+      "2023 one dollar coin big things",
+      "2023 $1 coin giant ram"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023 · 1 DOLLAR ·"
+  },
+  {
+    "id": 186,
+    "year": 2023,
+    "name": "Mob of Roos - King Charles III",
+    "mintage": 10000000,
+    "search_terms": [
+      "2023 one dollar coin king charles",
+      "2023 $1 coin king charles iii",
+      "2023 first king charles dollar"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2023"
+  },
+  {
+    "id": 187,
+    "year": 2024,
+    "name": "Australian Football League (AFL)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl",
+      "2024 $1 coin afl logo"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 188,
+    "year": 2024,
+    "name": "Australian Football League Women's (AFLW)",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin aflw",
+      "2024 $1 coin aflw logo"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 189,
+    "year": 2024,
+    "name": "AFL - Adelaide Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl adelaide crows",
+      "2024 $1 coin afl adelaide"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 190,
+    "year": 2024,
+    "name": "AFL - Brisbane Lions",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl brisbane lions",
+      "2024 $1 coin afl brisbane"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 191,
+    "year": 2024,
+    "name": "AFL - Carlton Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl carlton",
+      "2024 $1 coin afl carlton blues"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 192,
+    "year": 2024,
+    "name": "AFL - Collingwood Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl collingwood",
+      "2024 $1 coin afl magpies"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 193,
+    "year": 2024,
+    "name": "AFL - Essendon Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl essendon",
+      "2024 $1 coin afl bombers"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 194,
+    "year": 2024,
+    "name": "AFL - Fremantle Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl fremantle",
+      "2024 $1 coin afl dockers"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 195,
+    "year": 2024,
+    "name": "AFL - Geelong Cats",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl geelong",
+      "2024 $1 coin afl geelong cats"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 196,
+    "year": 2024,
+    "name": "AFL - Gold Coast Suns",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl gold coast",
+      "2024 $1 coin afl suns"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 197,
+    "year": 2024,
+    "name": "AFL - Greater Western Sydney Giants",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl gws",
+      "2024 $1 coin afl giants"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 198,
+    "year": 2024,
+    "name": "AFL - Hawthorn Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl hawthorn",
+      "2024 $1 coin afl hawks"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 199,
+    "year": 2024,
+    "name": "AFL - Melbourne Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl melbourne",
+      "2024 $1 coin afl demons"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 200,
+    "year": 2024,
+    "name": "AFL - North Melbourne Kangaroos",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl north melbourne",
+      "2024 $1 coin afl kangaroos"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 201,
+    "year": 2024,
+    "name": "AFL - Port Adelaide Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl port adelaide",
+      "2024 $1 coin afl power"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 202,
+    "year": 2024,
+    "name": "AFL - Richmond Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl richmond",
+      "2024 $1 coin afl tigers"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 203,
+    "year": 2024,
+    "name": "AFL - St Kilda Football Club",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl st kilda",
+      "2024 $1 coin afl saints"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 204,
+    "year": 2024,
+    "name": "AFL - Sydney Swans",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl sydney swans",
+      "2024 $1 coin afl sydney"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 205,
+    "year": 2024,
+    "name": "AFL - West Coast Eagles",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl west coast eagles",
+      "2024 $1 coin afl west coast"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 206,
+    "year": 2024,
+    "name": "AFL - Western Bulldogs",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin afl western bulldogs",
+      "2024 $1 coin afl bulldogs"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2024 · 1 DOLLAR ·"
+  },
+  {
+    "id": 207,
+    "year": 2024,
+    "name": "Mob of Roos",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin king charles",
+      "2024 $1 coin king charles mob of roos"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 208,
+    "year": 2024,
+    "name": "Bluey - Bluey with Balloon",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin bluey with balloon"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 209,
+    "year": 2024,
+    "name": "Bluey - Bingo",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin bluey bingo"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 210,
+    "year": 2024,
+    "name": "Bluey - Bluey, Bingo and Friends",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey and friends",
+      "2024 $1 coin bluey bingo"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 211,
+    "year": 2024,
+    "name": "Bluey - Bluey and Friends",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey and friends",
+      "2024 $1 coin bluey"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 212,
+    "year": 2024,
+    "name": "Bluey - Muffin and Socks",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin muffin and socks"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 213,
+    "year": 2024,
+    "name": "Bluey - The Heelers",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin the heelers"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 214,
+    "year": 2024,
+    "name": "Bluey - Uncle Stripes, Aunt Trixie and Nana",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin bluey family"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 215,
+    "year": 2024,
+    "name": "Bluey - Uncle Rad and Frisky",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin uncle rad frisky"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 216,
+    "year": 2024,
+    "name": "Bluey - Chilli and Bandit",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin chilli and bandit"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 217,
+    "year": 2024,
+    "name": "Bluey - The Grannies",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 one dollar coin bluey",
+      "2024 $1 coin the grannies"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+  {
+    "id": 218,
+    "year": 2025,
+    "name": "Mob of Roos",
+    "mintage": "unknown",
+    "search_terms": [
+      "2025 one dollar coin king charles",
+      "2025 $1 coin mob of roos"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2025"
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "id":  0,
+    "year": 1966,
+    "name": "Round (silver)",
+    "mintage": 36454000,
+    "search_terms": [
+      "1966 round 50 cent",
+      "round silver 50c",
+      "1966 80% silver coin"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1966"
+  },
+  {
+    "id":  1,
+    "year": 1970,
+    "name": "James Cook",
+    "mintage": 16555000,
+    "search_terms": [
+      "1970 captain cook 50 cent",
+      "1970 james cook 50c bicentenary"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1970"
+  },
+  {
+    "id":  2,
+    "year": 1977,
+    "name": "Silver Jubilee",
+    "mintage": 25131000,
+    "search_terms": [
+      "1977 silver jubilee 50 cent",
+      "1977 queen elizabeth jubilee 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1977"
+  },
+  {
+    "id":  3,
+    "year": 1978,
+    "name": "Fiji Mule",
+    "mintage": "unknown",
+    "search_terms": [
+      "1978 fiji mule 50 cent",
+      "1978 australian fiji mule coin",
+      "error coin 1978 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1978"
+  },
+  {
+    "id":  4,
+    "year": 1981,
+    "name": "Royal Wedding",
+    "mintage": 20000000,
+    "search_terms": [
+      "1981 royal wedding 50 cent",
+      "1981 charles and diana 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1981"
+  },
+  {
+    "id":  5,
+    "year": 1982,
+    "name": "XII Commonwealth Games",
+    "mintage": 49600000,
+    "search_terms": [
+      "1982 commonwealth games 50 cent",
+      "1982 brisbane games 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Second Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1982"
+  },
+  {
+    "id":  6,
+    "year": 1985,
+    "name": "Coat of Arms (Low Mintage)",
+    "mintage": 1075000,
+    "search_terms": [
+      "1985 50 cent coin",
+      "low mintage 1985 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1985"
+  },
+  {
+    "id":  7,
+    "year": 1986,
+    "name": "Coat of Arms (Mint Sets Only)",
+    "mintage": 247000,
+    "search_terms": [
+      "1986 50 cent coin",
+      "1986 mint set 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1986"
+  },
+  {
+    "id":  8,
+    "year": 1987,
+    "name": "Coat of Arms (Mint Sets Only)",
+    "mintage": 270000,
+    "search_terms": [
+      "1987 50 cent coin",
+      "1987 mint set 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1987"
+  },
+  {
+    "id":  9,
+    "year": 1988,
+    "name": "Bicentenary",
+    "mintage": 8206000,
+    "search_terms": [
+      "1988 bicentenary 50 cent",
+      "1988 first fleet 50c",
+      "1988 tall ship 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1988"
+  },
+  {
+    "id":  10,
+    "year": 1991,
+    "name": "25th Anniversary of Decimal Currency",
+    "mintage": 4700000,
+    "search_terms": [
+      "1991 decimal currency 50 cent",
+      "1991 ram head 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1991"
+  },
+  {
+    "id":  11,
+    "year": 1993,
+    "name": "Coat of Arms (Low Mintage)",
+    "mintage": 1000000,
+    "search_terms": [
+      "1993 50 cent coin",
+      "low mintage 1993 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1993"
+  },
+  {
+    "id":  12,
+    "year": 1994,
+    "name": "International Year of the Family",
+    "mintage": 21239000,
+    "search_terms": [
+      "1994 year of the family 50 cent",
+      "1994 family 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1994"
+  },
+  {
+    "id":  13,
+    "year": 1995,
+    "name": "50th Anniversary of the End of WW2",
+    "mintage": 15908000,
+    "search_terms": [
+      "1995 end of ww2 50 cent",
+      "1995 weary dunlop 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1995"
+  },
+  {
+    "id":  14,
+    "year": 1998,
+    "name": "Bass and Flinders",
+    "mintage": 22422000,
+    "search_terms": [
+      "1998 bass and flinders 50 cent",
+      "1998 discovery 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Third Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 1998"
+  },
+  {
+    "id":  15,
+    "year": 2000,
+    "name": "Millennium",
+    "mintage": 16665153,
+    "search_terms": [
+      "2000 millennium 50 cent",
+      "2000 flag 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2000"
+  },
+  {
+    "id":  16,
+    "year": 2000,
+    "name": "Royal Visit",
+    "mintage": 5100000,
+    "search_terms": [
+      "2000 royal visit 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Portrait by Gottwald",
+    "legend": "ELIZABETH II AUSTRALIA 2000"
+  },
+  {
+    "id":  17,
+    "year": 2001,
+    "name": "Centenary of Federation - Australian Capital Territory",
+    "mintage": 2085539,
+    "search_terms": [
+      "2001 federation 50c act",
+      "2001 act 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  18,
+    "year": 2001,
+    "name": "Centenary of Federation - New South Wales",
+    "mintage": 3103556,
+    "search_terms": [
+      "2001 federation 50c nsw",
+      "2001 nsw 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  19,
+    "year": 2001,
+    "name": "Centenary of Federation - Norfolk Island",
+    "mintage": 2230114,
+    "search_terms": [
+      "2001 federation 50c norfolk island",
+      "2001 norfolk island 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  20,
+    "year": 2001,
+    "name": "Centenary of Federation - Northern Territory",
+    "mintage": 2143029,
+    "search_terms": [
+      "2001 federation 50c nt",
+      "2001 northern territory 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  21,
+    "year": 2001,
+    "name": "Centenary of Federation - Queensland",
+    "mintage": 2403190,
+    "search_terms": [
+      "2001 federation 50c qld",
+      "2001 queensland 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  22,
+    "year": 2001,
+    "name": "Centenary of Federation - South Australia",
+    "mintage": 2464886,
+    "search_terms": [
+      "2001 federation 50c sa",
+      "2001 south australia 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  23,
+    "year": 2001,
+    "name": "Centenary of Federation - Tasmania",
+    "mintage": 2222668,
+    "search_terms": [
+      "2001 federation 50c tasmania",
+      "2001 tas 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  24,
+    "year": 2001,
+    "name": "Centenary of Federation - Victoria",
+    "mintage": 2883106,
+    "search_terms": [
+      "2001 federation 50c victoria",
+      "2001 vic 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  25,
+    "year": 2001,
+    "name": "Centenary of Federation - Western Australia",
+    "mintage": 2400000,
+    "search_terms": [
+      "2001 federation 50c wa",
+      "2001 western australia 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2001"
+  },
+  {
+    "id":  26,
+    "year": 2002,
+    "name": "Year of the Outback",
+    "mintage": 11665062,
+    "search_terms": [
+      "2002 year of the outback 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2002"
+  },
+  {
+    "id":  27,
+    "year": 2003,
+    "name": "Volunteers",
+    "mintage": 13927000,
+    "search_terms": [
+      "2003 volunteers 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2003"
+  },
+  {
+    "id":  28,
+    "year": 2004,
+    "name": "Primary School Design",
+    "mintage": 10200000,
+    "search_terms": [
+      "2004 primary school design 50 cent",
+      "2004 student design 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2004"
+  },
+  {
+    "id":  29,
+    "year": 2005,
+    "name": "Coat of Arms (PNC Only)",
+    "mintage": 30000,
+    "search_terms": [
+      "2005 50 cent pnc",
+      "2005 postal numismatic cover 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2005"
+  },
+  {
+    "id":  30,
+    "year": 2005,
+    "name": "60th Anniversary of the End of WWII",
+    "mintage": 26600000,
+    "search_terms": [
+      "2005 end of wwii 50 cent",
+      "2005 60th anniversary ww2 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2005"
+  },
+  {
+    "id":  31,
+    "year": 2005,
+    "name": "Commonwealth Games",
+    "mintage": 20500000,
+    "search_terms": [
+      "2005 commonwealth games 50 cent",
+      "2005 melbourne games 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2005"
+  },
+  {
+    "id":  32,
+    "year": 2010,
+    "name": "Australia Day",
+    "mintage": 11400000,
+    "search_terms": [
+      "2010 australia day 50 cent"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2010"
+  },
+  {
+    "id":  33,
+    "year": 2014,
+    "name": "AIATSIS",
+    "mintage": 3000000,
+    "search_terms": [
+      "2014 aiatsis 50 cent",
+      "2014 indigenous studies 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2014"
+  },
+  {
+    "id":  34,
+    "year": 2016,
+    "name": "Changeover",
+    "mintage": 7001661,
+    "search_terms": [
+      "2016 changeover 50 cent",
+      "2016 50th anniversary decimal 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2016 FIFTY YEARS"
+  },
+  {
+    "id":  35,
+    "year": 2017,
+    "name": "Mabo",
+    "mintage": 1400000,
+    "search_terms": [
+      "2017 mabo 50 cent",
+      "2017 mabo decision 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2017"
+  },
+  {
+    "id":  36,
+    "year": 2019,
+    "name": "Indigenous Languages",
+    "mintage": 2070000,
+    "search_terms": [
+      "2019 indigenous languages 50 cent",
+      "2019 iyil 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Fourth Portrait",
+    "legend": "ELIZABETH II AUSTRALIA 2019"
+  },
+  {
+    "id":  37,
+    "year": 2019,
+    "name": "Fifth Portrait (Jody Clark)",
+    "mintage": 870000,
+    "search_terms": [
+      "2019 jody clark 50 cent",
+      "2019 jc effigy 50c",
+      "2019 fifth portrait 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II · AUSTRALIA 2019"
+  },
+    {
+    "id":  38,
+    "year": 2023,
+    "name": "Memorial Obverse",
+    "mintage": "unknown",
+    "search_terms": [
+      "2023 memorial 50 cent",
+      "2023 queen memorial 50c",
+      "elizabeth II 1952-2022 50c"
+    ],
+    "effigy": "Queen Elizabeth II - Uncouped Portrait by Jody Clark",
+    "legend": "ELIZABETH II 1952 - 2022 · AUSTRALIA 2023"
+  },
+  {
+    "id":  39,
+    "year": 2024,
+    "name": "King Charles III Effigy",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 king charles 50 cent",
+      "2024 charles iii 50c"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024"
+  },
+    {
+    "id":  40,
+    "year": 2024,
+    "name": "NAIDOC",
+    "mintage": "unknown",
+    "search_terms": [
+      "2024 naidoc 50 cent",
+      "2024 naidoc week 50c"
+    ],
+    "effigy": "King Charles III - Portrait by Dan Thorne",
+    "legend": "CHARLES III · AUSTRALIA 2024 · 50 CENTS ·"
+  }
+]
