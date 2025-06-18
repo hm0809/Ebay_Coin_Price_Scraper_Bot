@@ -66,7 +66,7 @@ def scrape_coin_data(coins_to_scrape):
         coin_id, coin_name = coin.get('id', 'N/A'), coin.get('name', 'Unknown Coin')
         print(f"\n--- Scraping ID: {coin_id} | Name: {coin_name} ---")
 
-        search_term = coin['search_terms'][0]
+        search_term = coin['search_terms'][0] + " Australia"
         url = f"https://www.ebay.com/sch/i.html?_nkw={search_term.replace(' ', '+')}&_sacat=0&LH_Complete=1&LH_Sold=1"
         print(f"Connecting to: {url}")
 
